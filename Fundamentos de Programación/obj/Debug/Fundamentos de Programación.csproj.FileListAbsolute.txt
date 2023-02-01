@@ -1,0 +1,8 @@
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\bin\Debug\Fundamentos de Programación.exe.config
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\bin\Debug\Fundamentos de Programación.exe
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\bin\Debug\Fundamentos de Programación.pdb
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\obj\Debug\Fundamentos de Programación.csproj.AssemblyReference.cache
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\obj\Debug\Fundamentos de Programación.csproj.SuggestedBindingRedirects.cache
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\obj\Debug\Fundamentos de Programación.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\obj\Debug\Fundamentos de Programación.exe
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación I\Clase II\Fundamentos de Programación\Fundamentos de Programación\obj\Debug\Fundamentos de Programación.pdb
